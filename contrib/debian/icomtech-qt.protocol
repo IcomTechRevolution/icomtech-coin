@@ -1,0 +1,11 @@
+[Protocol]
+exec=icomtech-qt '%u'
+protocol=icomtech
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
